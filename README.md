@@ -1,0 +1,2 @@
+# ordicat
+Ordinal Nft Collection
